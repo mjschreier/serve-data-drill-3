@@ -43,6 +43,7 @@ function findById(data, id) {
 }
 
 app.get("/", function(request, response) {
+  response.status(200);
   response.json({data: students});
 })
 
@@ -56,6 +57,7 @@ app.get("/:id", function(request, response) {
       }
     })
   }
+  response.status(200);
   response.json({data: record});
 });
 
