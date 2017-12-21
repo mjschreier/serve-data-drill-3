@@ -1,6 +1,5 @@
 ## Heroku URL
 https://serve-data-drill-3.herokuapp.com/
-NOTE: NOT DEPLOYED YET, NEED OTHER PROJECTS TO GET GRADED SO I CAN DELETE THEM SO I HAVE SPACE ON MY HEROKU ACCOUNT TO DEPLOY
 
 ## Instructions
 
